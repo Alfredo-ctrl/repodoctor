@@ -1,0 +1,6 @@
+node_modules/
+*.log
+repo-health-report.md
+.env
+.env.*
+!.env.example

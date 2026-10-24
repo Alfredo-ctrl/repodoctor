@@ -1,38 +1,15 @@
-<!-- portfolio:start -->
 <p align="center">
-  <img src="assets/readme-hero.svg" alt="RepoDoctor banner" width="100%" />
+  <img src="assets/readme-hero.svg" alt="RepoDoctor Audit CLI Architectural Banner" width="100%" />
 </p>
 
-<h1 align="center">RepoDoctor</h1>
-
-<p align="center"><strong>A CLI clinic that checks whether a GitHub project is ready to be shown.</strong></p>
-
 <p align="center">
-<img alt="focus: repo audit" src="https://img.shields.io/badge/focus-repo%20audit-ffb703?style=for-the-badge&labelColor=80ffdb" />
-  <img alt="interface: CLI" src="https://img.shields.io/badge/interface-CLI-ffb703?style=for-the-badge&labelColor=80ffdb" />
-  <img alt="output: readiness report" src="https://img.shields.io/badge/output-readiness%20report-ffb703?style=for-the-badge&labelColor=80ffdb" />
+  <img src="https://img.shields.io/badge/DOMAIN-DEVELOPER%20TOOLING-0F172A?style=flat-square&labelColor=05080F&color=0284C7" alt="DOMAIN: DEVELOPER TOOLING" />
+  <img src="https://img.shields.io/badge/SURFACE-TERMINAL%20CLI-0F172A?style=flat-square&labelColor=05080F&color=1E293B" alt="SURFACE: TERMINAL CLI" />
+  <img src="https://img.shields.io/badge/CHECKS-DOCS%20%26%20SECURITY-0F172A?style=flat-square&labelColor=05080F&color=1E293B" alt="CHECKS: DOCS & SECURITY" />
+  <img src="https://img.shields.io/badge/RUNTIME-NODE.JS-0F172A?style=flat-square&labelColor=05080F&color=1E293B" alt="RUNTIME: NODE.JS" />
 </p>
-
-## Clinic Identity
-
-RepoDoctor treats each repository like a patient: docs, safety, screenshots, structure, and portfolio polish get checked in one pass.
-
-## Best Use
-
-Run it before publishing a new project or before sharing a repo on LinkedIn.
-
-## Command Line
-
-`npm install -g github:Alfredo-ctrl/repodoctor` then run `repodoctor <repo-path>`.
-
-## Portfolio Note
-
-This repository has its own visual identity inside the portfolio. The goal is that every project feels like a different product, not another copy of the same template.
-<!-- portfolio:end -->
 
 ---
-
-## Existing Project Notes
 
 # RepoDoctor
 
